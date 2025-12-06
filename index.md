@@ -9,3 +9,8 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] This item is complete
+- [ ] Complete task 4 given by GitHub
+- [ ] Introduce myself to the world
+
